@@ -6,13 +6,12 @@
     <RootNamespace>LethalCompanyMod</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <!-- Altere os caminhos abaixo para onde estão os arquivos DLL -->
     <Reference Include="UnityEngine">
-      <HintPath>D:                                                                                                                                                                                                                                                                                                                                              
-\SteamLibrary\steamapps\common\Lethal Company\LethalCompany\UnityEngine.dll</HintPath>
+      <HintPath>..\BepInEx\core\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>D:
-\SteamLibrary\steamapps\common\Lethal Company\LethalCompany\BepInEx.dll</HintPath>
+      <HintPath>..\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
