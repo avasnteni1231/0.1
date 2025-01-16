@@ -1,4 +1,6 @@
 using BepInEx;
+using BepInEx.Configuration;
+using BepInEx.Logging;
 using UnityEngine;
 
 [BepInPlugin("com.seuNome.lethalmod", "Lethal Company Mod", "1.0.0")]
