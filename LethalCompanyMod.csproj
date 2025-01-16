@@ -1,4 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+using BepInEx;
+using BepInEx.Configuration;
+using BepInEx.Logging;
+using UnityEngine;
+{
+[BepInPlugin("com.seuNome.lethalmod", "Lethal Company Mod", "1.0.0")]
+public class LethalMod : BaseUnityPlugin
+{<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <OutputPath>bin\</OutputPath>
@@ -14,3 +21,4 @@
     </Reference>
   </ItemGroup>
 </Project>
+}
