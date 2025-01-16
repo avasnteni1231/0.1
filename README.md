@@ -1,4 +1,4 @@
-# Lethal Company cheat
+e# Lethal Company cheat
 
 Um cheat para o jogo Lethal Company, que adiciona várias funcionalidades, como:
 - GodMode
