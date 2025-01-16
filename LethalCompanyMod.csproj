@@ -7,11 +7,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
-      <HintPath>..                                                                                                                                                                
-  \BepInEx\core\UnityEngine.dll</HintPath>
+      <HintPath>D:                                                                                                                                                                                                                                                                                                                                              
+\SteamLibrary\steamapps\common\Lethal Company\LethalCompany\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>..\BepInEx\core\BepInEx.dll</HintPath>
+      <HintPath>D:
+\SteamLibrary\steamapps\common\Lethal Company\LethalCompany\BepInEx.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
